@@ -1,8 +1,8 @@
 ---
 title: Photo Upscaler
 emoji: 🏙️
-colorFrom: yellow
-colorTo: blue
+colorFrom: purple
+colorTo: green
 sdk: static
 pinned: false
 header: mini
