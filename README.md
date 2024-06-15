@@ -4,7 +4,7 @@ emoji: 🏙️
 colorFrom: purple
 colorTo: green
 sdk: static
-pinned: false
+pinned: true
 header: mini
 ---
 
