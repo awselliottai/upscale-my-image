@@ -2,7 +2,7 @@
 title: Photo Upscaler
 emoji: 🏙️
 colorFrom: purple
-colorTo: blue
+colorTo: red
 sdk: static
 pinned: true
 header: mini
