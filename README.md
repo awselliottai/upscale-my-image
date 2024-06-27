@@ -5,7 +5,6 @@ colorFrom: indigo
 colorTo: red
 sdk: static
 pinned: true
-header: mini
 short_description: Image Upscaler | Face Restoration | Image Enhancer
 ---
 
