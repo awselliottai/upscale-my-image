@@ -2,7 +2,7 @@
 title: Photo Upscaler
 emoji: 🏙️
 colorFrom: blue
-colorTo: pink
+colorTo: purple
 sdk: static
 pinned: true
 short_description: Image Upscaler | Face Restoration | Image Enhancer
