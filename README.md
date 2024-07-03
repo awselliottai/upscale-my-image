@@ -1,7 +1,7 @@
 ---
 title: Photo Upscaler
 emoji: 🏙️
-colorFrom: blue
+colorFrom: indigo
 colorTo: pink
 sdk: static
 pinned: true
